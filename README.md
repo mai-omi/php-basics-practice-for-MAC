@@ -20,7 +20,7 @@ COACHTECH 教材 Tutorial 7-1「PHPの基礎 ハンズオン演習」で作成�
 
 http://localhost:8000/7-1-6_hands-on/practice/price_calculator.php にアクセス
 
-ttp://localhost:8000/7-1-6_hands-on/practice/discount_calculator.php にアクセス
+http://localhost:8000/7-1-6_hands-on/practice/discount_calculator.php にアクセス
 
 ## 開発の工夫
 
